@@ -8,6 +8,7 @@ public class ResumeParser {
 	
 	public String parseResumeInJSON(String filePath) throws IOException {
 		
+		
 		Gson gson = new Gson();
 		return gson.toJson("Hello");
 	}
