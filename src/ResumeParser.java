@@ -1,5 +1,4 @@
-import java.io.File;
-
+import java.io.IOException;
 import com.google.gson.Gson;
 
 /**
@@ -7,9 +6,14 @@ import com.google.gson.Gson;
  */
 public class ResumeParser {
 	
-	public String parseResumeInJSON(File file) {
+	public String parseResumeInJSON(String filePath) throws IOException {
+		
 		Gson gson = new Gson();
 		return gson.toJson("Hello");
+	}
+	
+	public String parseResumeInXML(String filePath) {
+		return null;
 	}
 
 }
