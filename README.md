@@ -1,5 +1,5 @@
 # ResumeParser (Java)
-A simple Java library to parse resumes in PDF, Word and Text file. 
+A simple Java library to parse resumes in PDF, Word and Text file and form JSON / XML structures out of them. 
 
 
 ## Supported File Formats
