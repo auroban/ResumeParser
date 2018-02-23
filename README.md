@@ -1,4 +1,4 @@
-# Resume-Parser-Java
+# ResumeParser (Java)
 A simple Java library to parse resumes in PDF, Word and Text file. 
 
 
