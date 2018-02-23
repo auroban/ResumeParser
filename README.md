@@ -3,10 +3,10 @@ A simple Java library to parse resumes in PDF, Word and Text file.
 
 
 ## Supported File Formats
-* ### doc
-* ### docx
-* ### pdf
-* ### txt
+* #### doc
+* #### docx
+* #### pdf
+* #### txt
 
 ## Built With
 * [Maven](https://maven.apache.org) - Dependency Management
