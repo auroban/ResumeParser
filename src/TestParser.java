@@ -6,7 +6,7 @@ public class TestParser {
 
 	public static void main(String[] args) {
 		try {
-			System.out.println(new ResumeParser().parseResumeInJSON("/home/auro/Desktop/auro.shit.pdf"));
+			System.out.println(new ResumeParser().parseResumeInJSON(""));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
