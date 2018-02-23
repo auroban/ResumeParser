@@ -8,7 +8,6 @@ public class TestParser {
 		try {
 			System.out.println(new ResumeParser().parseResumeInJSON("/home/auro/Desktop/auro.shit.pdf"));
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
